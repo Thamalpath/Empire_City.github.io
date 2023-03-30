@@ -9113,6 +9113,14 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     font-size: 65px; 
   }
 }
+@media (min-width: 360px){
+  .ot-heading .about-heading1,.ot-heading .about-heading2{
+    font-size: 52px; 
+  }
+  .ot-heading .about-heading1{
+    padding-left: 10px; 
+  }
+}
 
 
 .benefit-side-block {
