@@ -8891,6 +8891,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .vertical-main-navigation>ul>li.current-menu-item>a, .vertical-main-navigation>ul>li>a:hover {
     background-size: 100% 2px;
+    color: silver;
 }
 @media only screen and (min-width: 1025px){
   .vertical-main-navigation ul>li>a {
